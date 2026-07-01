@@ -16,7 +16,6 @@
     "lint:scss": "npx stylelint \"**/*.scss\"",
     "lint:fix": "ng lint --fix && npx stylelint \"**/*.scss\" --fix"
   },
-  #test
   "private": true,
   "dependencies": {
     "@angular/animations": "^22.0.1",
